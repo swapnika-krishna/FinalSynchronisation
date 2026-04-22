@@ -108,7 +108,7 @@
 }
 
 .hero-heading {
-  @apply text-5xl sm:text-8xl lg:text-[10rem] xl:text-[12rem] font-black tracking-[-0.04em] uppercase leading-[0.75] font-sans;
+  @apply text-4xl sm:text-7xl lg:text-[7rem] xl:text-[8rem] font-black tracking-[-0.04em] uppercase leading-[0.75] font-sans;
 }
 
 .italic-serif {
